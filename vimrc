@@ -20,7 +20,7 @@ endif
 filetype plugin indent on
 
 set background=dark
-set autoindent
+set autoindent                                               " mark: in shell Ctrl+Shift+V
 set autoread                                                 " reload files when changed on disk, i.e. via `git checkout`
 set backspace=2                                              " Fix broken backspace in some setups
 set backupcopy=yes                                           " see :help crontab
